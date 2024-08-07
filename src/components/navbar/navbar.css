@@ -79,7 +79,7 @@
     justify-content: flex-end;
     align-items: flex-end;
     flex-direction: column;
-    text-align: end;
+    text-align: start;
     background: var(--color-footer);
     padding: 2rem;
     position: absolute;
